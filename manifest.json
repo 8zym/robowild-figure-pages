@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T06:44:56.843Z",
-  "revision": "3XswUogYph4ppA",
+  "updated": "2026-11-02T07:41:10.507003+00:00",
+  "revision": "ca7da1b98c343a5a",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -105,6 +105,19 @@
       "width": 3200,
       "height": 3390,
       "sha256": "86260bbc56c8671bcf5945c41de19f9892445d0edee25f2dbe2727f834f32fc0"
+    },
+    {
+      "id": "harness-no-progress-20261102",
+      "slide_id": "p3-no-progress",
+      "number": 9,
+      "title": "闭环版 A · 无步骤条",
+      "current": false,
+      "png": "figures/09-p3-no-progress.png",
+      "preview": "figures/09-p3-no-progress.webp",
+      "thumbnail": "figures/09-p3-no-progress-thumb.webp",
+      "width": 3200,
+      "height": 3760,
+      "sha256": "bf4f1a7bc6e41bfe9c3e0d0d635f129e0f9513c1216488f4d3401d2ee6773421"
     }
   ]
 }
