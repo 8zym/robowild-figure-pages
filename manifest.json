@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T05:39:06.940Z",
-  "revision": "SIR8AHghjcOkoA",
+  "updated": "2026-11-02T06:27:29.835Z",
+  "revision": "Tub7T8YFqMpU6A",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -13,7 +13,7 @@
       "thumbnail": "figures/01-p1-thumb.webp",
       "width": 3200,
       "height": 3390,
-      "sha256": "4565543d8dd400c02af9ead4f813b59a40dc0c89ab62ecb60ce226b78b10279c"
+      "sha256": "88e6bd820c38c7f32551788a65ccdace77e5693028a0d3cd2d8bcd7e5b915e87"
     },
     {
       "id": "interaction-linked-harness-20261101",
@@ -52,7 +52,7 @@
       "thumbnail": "figures/04-p4-thumb.webp",
       "width": 3200,
       "height": 3390,
-      "sha256": "0b7f590774584bb176e4b92cfd47767bef460f41112e5d2d07e17378f9e32d4f"
+      "sha256": "f4337fd06758bbc0ea7bf738a75a73c3197b639edbd23f78349a554bf5009acb"
     },
     {
       "id": "interaction-task-montage-20261101",
