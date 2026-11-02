@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T06:27:29.835Z",
-  "revision": "Tub7T8YFqMpU6A",
+  "updated": "2026-11-02T06:44:56.843Z",
+  "revision": "3XswUogYph4ppA",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -52,17 +52,30 @@
       "thumbnail": "figures/04-p4-thumb.webp",
       "width": 3200,
       "height": 3390,
-      "sha256": "f4337fd06758bbc0ea7bf738a75a73c3197b639edbd23f78349a554bf5009acb"
+      "sha256": "5ec673f4399cc4c3c9f14257725d97ac41434d6d0ca0e940c8cb50ecdc83518c"
+    },
+    {
+      "id": "photo-wall-clean-a-20261102",
+      "slide_id": "rwA_clean_20261102",
+      "number": 5,
+      "title": "A · 无照片墙背景",
+      "current": false,
+      "png": "figures/05-rwA_clean_20261102.png",
+      "preview": "figures/05-rwA_clean_20261102.webp",
+      "thumbnail": "figures/05-rwA_clean_20261102-thumb.webp",
+      "width": 3200,
+      "height": 3390,
+      "sha256": "f78a049ed19949c10a066a5af22f773bf5f95533bea238aea9b726f0f88718d3"
     },
     {
       "id": "interaction-task-montage-20261101",
       "slide_id": "p5",
-      "number": 5,
+      "number": 6,
       "title": "十二场景交互拼图",
       "current": false,
-      "png": "figures/05-p5.png",
-      "preview": "figures/05-p5.webp",
-      "thumbnail": "figures/05-p5-thumb.webp",
+      "png": "figures/06-p5.png",
+      "preview": "figures/06-p5.webp",
+      "thumbnail": "figures/06-p5-thumb.webp",
       "width": 3200,
       "height": 3390,
       "sha256": "b38419d3cab83c9e6c89c927249ed5cccd727ebf187a844681436e4331c4bc9d"
@@ -70,12 +83,12 @@
     {
       "id": "style-d-poster-20261101",
       "slide_id": "p6",
-      "number": 6,
+      "number": 7,
       "title": "版式 D · 海报式三栏",
       "current": false,
-      "png": "figures/06-p6.png",
-      "preview": "figures/06-p6.webp",
-      "thumbnail": "figures/06-p6-thumb.webp",
+      "png": "figures/07-p6.png",
+      "preview": "figures/07-p6.webp",
+      "thumbnail": "figures/07-p6-thumb.webp",
       "width": 3200,
       "height": 3390,
       "sha256": "f0f8fafabebac2aae5fe2ae1c7c2be292f6fd437a868be75ef76a81d575a9587"
@@ -83,12 +96,12 @@
     {
       "id": "compact-no-stats-20261031",
       "slide_id": "p8",
-      "number": 7,
+      "number": 8,
       "title": "场景全景与 Agent harness",
       "current": false,
-      "png": "figures/07-p8.png",
-      "preview": "figures/07-p8.webp",
-      "thumbnail": "figures/07-p8-thumb.webp",
+      "png": "figures/08-p8.png",
+      "preview": "figures/08-p8.webp",
+      "thumbnail": "figures/08-p8-thumb.webp",
       "width": 3200,
       "height": 3390,
       "sha256": "86260bbc56c8671bcf5945c41de19f9892445d0edee25f2dbe2727f834f32fc0"
