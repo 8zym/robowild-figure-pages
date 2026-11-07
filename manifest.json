@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T15:44:13.532869+00:00",
-  "revision": "57842d8c82f2d434",
+  "updated": "2026-11-07T16:52:58.040545+00:00",
+  "revision": "e4964cb31004db5a",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -139,8 +139,8 @@
       "thumbnail": "figures/10-harness-a-scores-thumb.webp",
       "width": 9856,
       "height": 5952,
-      "sha256": "ecb0f19648324eaa7b061e47c6e7a90fe954c0fa4b1560fa0af6f99820f605f0",
-      "description": "A：15px单行任务标题；保留五步进度与三路输入，下一时刻聚焦Contact view；右侧29%宽，采用统一token预算与单一纵轴。全部分数为占位值。"
+      "sha256": "452819f768a868ca8200298238737880744462072f396137557e913bbf09bd7c",
+      "description": "A：15px单行任务标题；五步进度、三路输入与Contact view；Action code展开为双手配合炒虾的8行伪代码。右侧采用统一token预算与单一纵轴，全部分数为占位值。"
     },
     {
       "id": "harness-option-d-scores-20261107",
