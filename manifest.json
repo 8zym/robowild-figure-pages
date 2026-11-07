@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T15:17:34.403605+00:00",
-  "revision": "deab88b10f2c31dc",
+  "updated": "2026-11-07T15:44:13.532869+00:00",
+  "revision": "57842d8c82f2d434",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -139,8 +139,8 @@
       "thumbnail": "figures/10-harness-a-scores-thumb.webp",
       "width": 9856,
       "height": 5952,
-      "sha256": "56a1ab71ed522c20e49edfbcbf95c3761a9b084a34e350b1fc43a8e451da749f",
-      "description": "A：22px双行任务标题；保留五步进度与三路输入，下一时刻聚焦Contact view；右侧29%宽，采用统一token预算与单一纵轴。全部分数为占位值。"
+      "sha256": "ecb0f19648324eaa7b061e47c6e7a90fe954c0fa4b1560fa0af6f99820f605f0",
+      "description": "A：15px单行任务标题；保留五步进度与三路输入，下一时刻聚焦Contact view；右侧29%宽，采用统一token预算与单一纵轴。全部分数为占位值。"
     },
     {
       "id": "harness-option-d-scores-20261107",
