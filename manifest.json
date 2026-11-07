@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T11:47:53.336902+00:00",
-  "revision": "b9b63aaa954a6d59",
+  "updated": "2026-11-07T13:48:31.270059+00:00",
+  "revision": "5afb4bfdf739729f",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -132,29 +132,29 @@
       "id": "harness-option-a-scores-20261107",
       "slide_id": "harness-a-scores",
       "number": 10,
-      "title": "A + Scores · 详细进度＋右侧得分图",
+      "title": "A · 主图右侧整体得分曲线",
       "current": false,
       "png": "figures/10-harness-a-scores.png",
       "preview": "figures/10-harness-a-scores.webp",
       "thumbnail": "figures/10-harness-a-scores-thumb.webp",
-      "width": 6880,
-      "height": 5592,
-      "sha256": "338577743251c3db158ad658a447fe4f3e1301c5f44ae12d05cf317dd76291bd",
-      "description": "保留五步进度与下一时刻观察。右侧为占位得分图，非实测结果。"
+      "width": 11136,
+      "height": 6160,
+      "sha256": "f7b461cc7d22dd2a262d92c8f50d630bb2a2baaea1e75638e536a016ade843a1",
+      "description": "A 保留五步进度与详细反馈。整体得分曲线独立位于整张主图右侧；所有数值均为占位数据。"
     },
     {
       "id": "harness-option-d-scores-20261107",
       "slide_id": "harness-d-scores",
       "number": 11,
-      "title": "D + Scores · 直接输入＋右侧得分图",
+      "title": "D · 主图右侧整体得分曲线",
       "current": false,
       "png": "figures/11-harness-d-scores.png",
       "preview": "figures/11-harness-d-scores.webp",
       "thumbnail": "figures/11-harness-d-scores-thumb.webp",
-      "width": 6880,
-      "height": 4936,
-      "sha256": "2dcdf2b8f50fae52b7b6f162fd84f77dc7d7e68dace121c5a144f5310e677782",
-      "description": "炒虾任务直接进入 Model input，保留单行闭环。右侧为占位得分图，非实测结果。"
+      "width": 11136,
+      "height": 5288,
+      "sha256": "65b9e3b3e01a21e5c0dd8ac2baf4020ee2b2f94284f450ad9a467278e67f6a69",
+      "description": "D 保留任务直接进入 Model input 的闭环。整体得分曲线独立位于整张主图右侧；所有数值均为占位数据。"
     }
   ]
 }
