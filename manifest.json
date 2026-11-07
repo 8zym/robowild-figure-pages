@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T17:12:23.623236+00:00",
-  "revision": "02607071c0ef1ded",
+  "updated": "2026-11-07T17:28:49.253097+00:00",
+  "revision": "95e35627e56bf3e3",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -138,9 +138,9 @@
       "preview": "figures/10-harness-a-scores.webp",
       "thumbnail": "figures/10-harness-a-scores-thumb.webp",
       "width": 9856,
-      "height": 6352,
-      "sha256": "cb2607a254349ba2b65a830350e3b4e36cfad42f0b6e6917eeafe523229e7d25",
-      "description": "A：Observe → Plan → Act 闭环；观察与上下文、模型决策、Python SDK / JSON 工具调用及仿真反馈。去掉Example task注释；任务标题保持单行。右侧得分仍为占位值。"
+      "height": 5952,
+      "sha256": "35f2f3b4d9d8e5fe3b30faa98c321c9cd14185a7f3b64c0abb31e64d7a60ff89",
+      "description": "A：简化 Observe → Plan → Act 三段图示；移除代码、接口名与密集小字，放大模型图标和文字，保留相机输入及仿真反馈。任务标题保持单行；右侧得分仍为占位值。"
     },
     {
       "id": "harness-option-d-scores-20261107",
