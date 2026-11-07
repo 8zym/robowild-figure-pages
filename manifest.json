@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T13:48:31.270059+00:00",
-  "revision": "5afb4bfdf739729f",
+  "updated": "2026-11-07T15:17:34.403605+00:00",
+  "revision": "deab88b10f2c31dc",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -132,15 +132,15 @@
       "id": "harness-option-a-scores-20261107",
       "slide_id": "harness-a-scores",
       "number": 10,
-      "title": "A · 主图右侧整体得分曲线",
+      "title": "A · 可读性精修与统一预算曲线",
       "current": false,
       "png": "figures/10-harness-a-scores.png",
       "preview": "figures/10-harness-a-scores.webp",
       "thumbnail": "figures/10-harness-a-scores-thumb.webp",
-      "width": 11136,
-      "height": 6160,
-      "sha256": "f7b461cc7d22dd2a262d92c8f50d630bb2a2baaea1e75638e536a016ade843a1",
-      "description": "A 保留五步进度与详细反馈。整体得分曲线独立位于整张主图右侧；所有数值均为占位数据。"
+      "width": 9856,
+      "height": 5952,
+      "sha256": "56a1ab71ed522c20e49edfbcbf95c3761a9b084a34e350b1fc43a8e451da749f",
+      "description": "A：22px双行任务标题；保留五步进度与三路输入，下一时刻聚焦Contact view；右侧29%宽，采用统一token预算与单一纵轴。全部分数为占位值。"
     },
     {
       "id": "harness-option-d-scores-20261107",
