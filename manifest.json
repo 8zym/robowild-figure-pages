@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T16:52:58.040545+00:00",
-  "revision": "e4964cb31004db5a",
+  "updated": "2026-11-07T17:12:23.623236+00:00",
+  "revision": "02607071c0ef1ded",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -138,9 +138,9 @@
       "preview": "figures/10-harness-a-scores.webp",
       "thumbnail": "figures/10-harness-a-scores-thumb.webp",
       "width": 9856,
-      "height": 5952,
-      "sha256": "452819f768a868ca8200298238737880744462072f396137557e913bbf09bd7c",
-      "description": "A：15px单行任务标题；五步进度、三路输入与Contact view；Action code展开为双手配合炒虾的8行伪代码。右侧采用统一token预算与单一纵轴，全部分数为占位值。"
+      "height": 6352,
+      "sha256": "cb2607a254349ba2b65a830350e3b4e36cfad42f0b6e6917eeafe523229e7d25",
+      "description": "A：Observe → Plan → Act 闭环；观察与上下文、模型决策、Python SDK / JSON 工具调用及仿真反馈。去掉Example task注释；任务标题保持单行。右侧得分仍为占位值。"
     },
     {
       "id": "harness-option-d-scores-20261107",
