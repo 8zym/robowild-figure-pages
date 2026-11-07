@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T17:28:49.253097+00:00",
-  "revision": "95e35627e56bf3e3",
+  "updated": "2026-11-07T18:07:33.256742+00:00",
+  "revision": "1621b71d04ec6cce",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -139,8 +139,8 @@
       "thumbnail": "figures/10-harness-a-scores-thumb.webp",
       "width": 9856,
       "height": 5952,
-      "sha256": "35f2f3b4d9d8e5fe3b30faa98c321c9cd14185a7f3b64c0abb31e64d7a60ff89",
-      "description": "A：简化 Observe → Plan → Act 三段图示；移除代码、接口名与密集小字，放大模型图标和文字，保留相机输入及仿真反馈。任务标题保持单行；右侧得分仍为占位值。"
+      "sha256": "d12ad7dd4c748af67e399e7af0cd6b7c1b15062323b762384d5fa5ab1dd74122",
+      "description": "A：恢复 Model input → Models → Action code → Simulation 原有架构，保留五步进度与反馈回路；代码区回到简短示意。Example task注释保持移除，任务标题保持单行；分数仍为占位值。"
     },
     {
       "id": "harness-option-d-scores-20261107",
