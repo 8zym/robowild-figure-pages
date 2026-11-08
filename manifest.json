@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T18:07:33.256742+00:00",
-  "revision": "1621b71d04ec6cce",
+  "updated": "2026-11-08T03:57:03.641691+00:00",
+  "revision": "3c21a7271df937e2",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -139,8 +139,8 @@
       "thumbnail": "figures/10-harness-a-scores-thumb.webp",
       "width": 9856,
       "height": 5952,
-      "sha256": "d12ad7dd4c748af67e399e7af0cd6b7c1b15062323b762384d5fa5ab1dd74122",
-      "description": "A：恢复 Model input → Models → Action code → Simulation 原有架构，保留五步进度与反馈回路；代码区回到简短示意。Example task注释保持移除，任务标题保持单行；分数仍为占位值。"
+      "sha256": "d54d533c71bf645b76aa6c898b411517159d0e835941681f7e32d0b63d736de4",
+      "description": "A：保留四块架构；Tool calls / action code 使用 Perception、Planning、Action 三行 API 标签，不展开代码参数；执行箭头标注 step / move_robot。任务标题保持单行；右侧分数仍为占位值。"
     },
     {
       "id": "harness-option-d-scores-20261107",
