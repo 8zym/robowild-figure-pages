@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T03:57:03.641691+00:00",
-  "revision": "3c21a7271df937e2",
+  "updated": "2026-11-13T13:00:00+00:00",
+  "revision": "c71cecedbf23bfa4",
   "versions": [
     {
       "id": "interaction-montage-harness-20261101",
@@ -14,7 +14,8 @@
       "width": 3200,
       "height": 3390,
       "sha256": "88e6bd820c38c7f32551788a65ccdace77e5693028a0d3cd2d8bcd7e5b915e87",
-      "description": "Google Slides 当前第 1 页；保留原稿全部内容、位置和页面留白。"
+      "description": "Google Slides 当前第 1 页；保留原稿全部内容、位置和页面留白。",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.p1"
     },
     {
       "id": "interaction-linked-harness-20261101",
@@ -28,7 +29,8 @@
       "width": 3200,
       "height": 3390,
       "sha256": "78c85a561453fa47e6f638fb349cedda1cee2ecf55e87325a7a9e0767306e690",
-      "description": "Google Slides 当前第 2 页；保留原稿全部内容、位置和页面留白。"
+      "description": "Google Slides 当前第 2 页；保留原稿全部内容、位置和页面留白。",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.p2"
     },
     {
       "id": "harness-a-refined-20261101",
@@ -42,21 +44,23 @@
       "width": 3200,
       "height": 3390,
       "sha256": "8235958e74df8b69a8fd4b577f500f60a322d67881672382c30ca940afb52f73",
-      "description": "Google Slides 当前第 3 页；保留原稿全部内容、位置和页面留白。"
+      "description": "Google Slides 当前第 3 页；保留原稿全部内容、位置和页面留白。",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.p3"
     },
     {
       "id": "photo-wall-gallery-a-20261102",
       "slide_id": "p4",
       "number": 4,
       "title": "照片墙 A · 场景与任务双栏",
-      "current": true,
+      "current": false,
       "png": "figures/04-p4.png",
       "preview": "figures/04-p4.webp",
       "thumbnail": "figures/04-p4-thumb.webp",
       "width": 3200,
       "height": 3390,
       "sha256": "5ec673f4399cc4c3c9f14257725d97ac41434d6d0ca0e940c8cb50ecdc83518c",
-      "description": "Google Slides 当前第 4 页；保留原稿全部内容、位置和页面留白。"
+      "description": "Google Slides 当前第 4 页；保留原稿全部内容、位置和页面留白。",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.p4"
     },
     {
       "id": "photo-wall-clean-a-20261102",
@@ -70,7 +74,8 @@
       "width": 3200,
       "height": 3390,
       "sha256": "f78a049ed19949c10a066a5af22f773bf5f95533bea238aea9b726f0f88718d3",
-      "description": "Google Slides 当前第 5 页；保留原稿全部内容、位置和页面留白。"
+      "description": "Google Slides 当前第 5 页；保留原稿全部内容、位置和页面留白。",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.rwA_clean_20261102"
     },
     {
       "id": "interaction-task-montage-20261101",
@@ -84,7 +89,8 @@
       "width": 3200,
       "height": 3390,
       "sha256": "b38419d3cab83c9e6c89c927249ed5cccd727ebf187a844681436e4331c4bc9d",
-      "description": "Google Slides 当前第 6 页；保留原稿全部内容、位置和页面留白。"
+      "description": "Google Slides 当前第 6 页；保留原稿全部内容、位置和页面留白。",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.p5"
     },
     {
       "id": "style-d-poster-20261101",
@@ -98,7 +104,8 @@
       "width": 3200,
       "height": 3390,
       "sha256": "f0f8fafabebac2aae5fe2ae1c7c2be292f6fd437a868be75ef76a81d575a9587",
-      "description": "Google Slides 当前第 7 页；保留原稿全部内容、位置和页面留白。"
+      "description": "Google Slides 当前第 7 页；保留原稿全部内容、位置和页面留白。",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.p6"
     },
     {
       "id": "compact-no-stats-20261031",
@@ -112,7 +119,8 @@
       "width": 3200,
       "height": 3390,
       "sha256": "86260bbc56c8671bcf5945c41de19f9892445d0edee25f2dbe2727f834f32fc0",
-      "description": "Google Slides 当前第 8 页；保留原稿全部内容、位置和页面留白。"
+      "description": "Google Slides 当前第 8 页；保留原稿全部内容、位置和页面留白。",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.p8"
     },
     {
       "id": "harness-no-progress-20261102",
@@ -155,6 +163,40 @@
       "height": 5288,
       "sha256": "65b9e3b3e01a21e5c0dd8ac2baf4020ee2b2f94284f450ad9a467278e67f6a69",
       "description": "D 保留任务直接进入 Model input 的闭环。整体得分曲线独立位于整张主图右侧；所有数值均为占位数据。"
+    },
+    {
+      "id": "harness-option-d-refined-20261108",
+      "slide_id": "harness-d-refined",
+      "number": 13,
+      "title": "D · 精修版（2026-11-08）",
+      "current": false,
+      "png": "figures/13-harness-d-refined.png",
+      "preview": "figures/13-harness-d-refined.webp",
+      "thumbnail": "figures/13-harness-d-refined-thumb.webp",
+      "width": 7539,
+      "height": 3966,
+      "sha256": "d5365b8587bc83ef6681b9c36cfe7e0fe8c389d6734427382000a17372e475fe",
+      "description": "独立 D 精修版：左侧缩窄、场景与任务行高对齐；Harness 使用断开的分组边框，四个子卡片标题居中，Simulation 内容左右平衡。原版 D 保留；曲线仍为示例值。",
+      "pdf": "figures/13-harness-d-refined.pdf",
+      "pdf_sha256": "2d24ad6dc1c8e1fa5e5a229b4ed82bd449dd02fa1b491f69357d82620dd0ae76"
+    },
+    {
+      "id": "main-figure-v4-20261113",
+      "slide_id": "main-figure-v4",
+      "number": 14,
+      "title": "主图 v4 · 稳定仿真截图修订版",
+      "current": true,
+      "png": "figures/14-main-figure-v4.png",
+      "preview": "figures/14-main-figure-v4.webp",
+      "thumbnail": "figures/14-main-figure-v4-thumb.webp",
+      "width": 6000,
+      "height": 2948,
+      "sha256": "155e0c4c769c48f4a08ec8c88c1142dd8be9012910db7631afb893a25654647b",
+      "description": "已确认版本：单手取工具、袖口中段夹持、双臂扶持椅腿及扫描器握持优化。",
+      "pdf": "figures/14-main-figure-v4.pdf",
+      "pdf_sha256": "151ee830e49258cc03936c3d7cccb381a049a44e7278b577545ece9e08db38b5",
+      "pptx": "figures/14-main-figure-v4.pptx",
+      "source_url": "https://docs.google.com/presentation/d/1MpTtzwarJh7VgEBG-OyVAmrF3QeduHFlPgdrNOE9Iyk/edit#slide=id.rw_main_figure_v4_20261113"
     }
   ]
 }
